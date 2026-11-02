@@ -1,0 +1,12 @@
+{
+  "name": "salesix",
+  "version": "1.0.0",
+  "description": "Malta student recruitment assistant for education agents: CVU (Identita) visa query reviews and pre-submission document checks.",
+  "author": {
+    "name": "Campus Transfer Ltd"
+  },
+  "homepage": "https://github.com/Tareq834/campustransfer-plugin",
+  "repository": "https://github.com/Tareq834/campustransfer-plugin",
+  "license": "MIT",
+  "keywords": ["malta", "student visa", "education agents", "recruitment"]
+}
